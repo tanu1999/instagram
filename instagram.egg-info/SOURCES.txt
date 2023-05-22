@@ -1,0 +1,7 @@
+README.md
+setup.py
+instagram.egg-info/PKG-INFO
+instagram.egg-info/SOURCES.txt
+instagram.egg-info/dependency_links.txt
+instagram.egg-info/requires.txt
+instagram.egg-info/top_level.txt
